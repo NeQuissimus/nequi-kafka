@@ -1,4 +1,4 @@
-val mainScala = "2.13.12"
+val mainScala = "2.13.13"
 val allScala  = Seq(mainScala)
 
 inThisBuild(
